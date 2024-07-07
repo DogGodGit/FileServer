@@ -24,6 +24,12 @@ server -h[https]  # 开启https服务
 server --openindex  # 是否打开默认页面
 
 server --no-openbrowser  # 关闭自动打开浏览器
+
+netlify login #登录
+netlify build #在本地运行生成
+netlify deploy #手动部署
+netlify deploy --prod #生产部署
+
 ```
 
 ### 基本功能

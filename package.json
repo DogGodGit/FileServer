@@ -22,7 +22,8 @@
     "mime": "^2.2.0",
     "open": "^7.1.0",
     "pem": "^1.12.5",
-    "yargs": "^6.6.0"
+    "yargs": "^6.6.0",
+    "yumu-static-server": "^0.0.14"
   },
   "devDependencies": {
     "supervisor": "^0.12.0"
